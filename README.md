@@ -5,7 +5,7 @@ A modern and responsive calculator built using **HTML**, **CSS**, and **JavaScri
  🚀 Live Demo
 
 🔗 **Live Website:**  
-https://Calculator-APP.github.io/CodeAlpha_CalculatorApp/
+https://Sobia-iqbal56.github.io/CodeAlpha_CalculatorApp/
 
 
 ## 📸 Screenshot
