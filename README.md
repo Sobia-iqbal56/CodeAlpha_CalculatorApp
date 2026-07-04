@@ -2,8 +2,12 @@
 
 A modern and responsive calculator built using **HTML**, **CSS**, and **JavaScript**. This project performs basic arithmetic operations while providing a clean user interface, keyboard support, and input validation for a better user experience.
 
-## 📸 Screenshot
+## 🚀 Live Demo
 
+🔗 **Live Website:**  
+https://sobia-iqbal56.github.io/CodeAlpha_CalculatorApp/
+
+## 📸 Screenshot
 
 ![Calculator Screenshot](screenshots/calculator.png)
 
